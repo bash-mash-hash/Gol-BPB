@@ -14,7 +14,7 @@ import { connect } from 'cloudflare:sockets';
 
 // یویوآیدی را تنظیم کنید
 // بهترین سایت برای برداشتن یویوآیدی اختصاصی: https://fusionauth.io/dev-tools/uuid-generator
-let userID = 'UUID_SHOMA';
+let userID = '882e8ffd-1246-4e65-a45f-0d91a6aaaf99';
 //در صورت ارور یویوآیدی یبار یویوآیدی را پاک کرده و دوباره وارد کنید و دپلوی و سیو را بزنید
 
 
